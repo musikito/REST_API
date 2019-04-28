@@ -9,7 +9,7 @@ Representational State Transfer (REST) is a software architectural style that de
 ![Rest](https://github.com/musikito/REST_API/blob/master/img/rest.png)</br>
 
 # Routing 
-** Routing ** refers to how an application’s endpoints (URIs) respond to client requests. 
+**Routing** refers to how an application’s endpoints (URIs) respond to client requests. 
 [Basic Routing](https://expressjs.com/en/starter/basic-routing.html)
 
 
