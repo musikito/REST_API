@@ -1,0 +1,25 @@
+{
+  "name": "rest_api",
+  "version": "1.0.0",
+  "description": "Code Ninja Tut",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musikito/REST_API.git"
+  },
+  "author": "JoseMiguel Marte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/musikito/REST_API/issues"
+  },
+  "homepage": "https://github.com/musikito/REST_API#readme"
+}
