@@ -1,6 +1,6 @@
 # Rest Api
 
-# Waht is REST? </br>
+# What is REST? </br>
 REST is acronym for REpresentational State Transfer. It is architectural style for distributed hypermedia systems and was first presented by Roy Fielding in 2000. </br>
 [Restful Api](https://restfulapi.net/)</br>
 ![Rest](https://github.com/musikito/REST_API/blob/master/img/Rest-API.png)</br>
