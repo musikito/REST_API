@@ -16,6 +16,7 @@ const app = express();
 To use the new parser, pass option { useNewUrlParser: true } to MongoClient.connect.
 */
 
+//better way to connec to DB using mongoose.
 mongoose.connect("mongodb://localhost/ninjago",{useNewUrlParser:true},function(error){
     if(!error){
         console.log("connected");
