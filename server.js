@@ -22,6 +22,9 @@ mongoose.connect("mongodb://localhost/ninjago",{useNewUrlParser:true},function(e
     }
 })
 
+//serving a static file
+app.use(express.static("public"));
+
 //set up the body parser
 app.use(bodyParser.json());
 
